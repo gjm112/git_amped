@@ -1,9 +1,9 @@
-Package: git_amped_R
+Package: git.amped.R
 Type: Package
-Title: It’s just an example!
+Title: Its just an example!
 Version: 1.0
 Date: 2020-11-05
 Author: Greg Matthews
-Maintainer: gjm112@gmail.com
-Description: It’s just an example
+Maintainer: Greg Matthews <gjm112@gmail.com>
+Description: Its just an example
 License: GPL2

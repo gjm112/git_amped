@@ -1,25 +1,25 @@
-\name{git_amped_R-package}
-\alias{git_amped_R-package}
-\alias{git_amped_R}
+\name{git.amped.R-package}
+\alias{git.amped.R-package}
+\alias{git.amped.R}
 \docType{package}
 \title{
-\packageTitle{git_amped_R}
+\packageTitle{git.amped.R}
 }
 \description{
-\packageDescription{git_amped_R}
+\packageDescription{git.amped.R}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{git_amped_R}
-\packageIndices{git_amped_R}
+\packageDESCRIPTION{git.amped.R}
+\packageIndices{git.amped.R}
 ~~ An overview of how to use the package, including the ~~
 ~~ most important functions ~~
 }
 \author{
-\packageAuthor{git_amped_R}
+\packageAuthor{git.amped.R}
 
-Maintainer: \packageMaintainer{git_amped_R}
+Maintainer: \packageMaintainer{git.amped.R}
 }
 \references{
 ~~ Literature or other references for background information ~~
