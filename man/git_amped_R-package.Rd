@@ -32,5 +32,5 @@ Maintainer: \packageMaintainer{git.amped.R}
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-~~ simple examples of the most important functions ~~
+steve(3)
 }
